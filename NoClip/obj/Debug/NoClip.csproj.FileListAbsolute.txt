@@ -1,0 +1,6 @@
+c:\users\agando\documents\visual studio 2012\Projects\NoClip\NoClip\obj\Debug\NoClip.csprojResolveAssemblyReference.cache
+c:\users\agando\documents\visual studio 2012\Projects\NoClip\NoClip\bin\Debug\NoClip.dll
+c:\users\agando\documents\visual studio 2012\Projects\NoClip\NoClip\bin\Debug\NoClip.pdb
+c:\users\agando\documents\visual studio 2012\Projects\NoClip\NoClip\bin\Debug\InfinityScript.dll
+c:\users\agando\documents\visual studio 2012\Projects\NoClip\NoClip\obj\Debug\NoClip.dll
+c:\users\agando\documents\visual studio 2012\Projects\NoClip\NoClip\obj\Debug\NoClip.pdb
